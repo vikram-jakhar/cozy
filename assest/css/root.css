@@ -1,0 +1,58 @@
+:root {
+    --fs-sm: 18px;
+    --fs-3sm: 16px;
+    --fs-1sm: 28px;
+    --fs-2sm: 24px;
+    --fs-lg: 50px;
+    --fs-xl: 60px;
+    --fs-1xl: 69px;
+    /* font color */
+    --white: #fff;
+    --green: #5BA72B;
+    --lite-green: #9ACC44;
+    /* font famly */
+    --ff-one: "Cherry Bomb One";
+    --ff-bals: "Balsamiq Sans";
+}
+
+.fs-sm {
+    font-size: var(--fs-sm);
+}
+
+.fs-1sm {
+    font-size: var(--fs-1sm);
+}
+.fs-2sm {
+    font-size: var(--fs-2sm);
+}
+.fs-lg{
+    font: var(--fs-lg);
+}
+
+.fs-xl {
+    font-size: var(--fs-xl);
+}
+
+.fs-1xl {
+    font-size: var(--fs-1xl);
+}
+
+.white {
+    color: var(--white);
+}
+
+.green {
+    color: var(--green);
+}
+
+.lite-green {
+    color: var(--lite-green);
+}
+
+.ff-one {
+    font-family: "Cherry Bomb One";
+}
+
+.ff-bals {
+    font-family: "Balsamiq Sans";
+}
